@@ -1,0 +1,41 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.26 
+
+Case Information: 
+Acquired using: ADI8.2.0.26
+Case Number: 1
+Evidence Number:  
+Unique Description: 
+Examiner: krithika
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\sudha\Downloads\comprise:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 10,237,952
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 4999 MB
+ Sector count:    10237952
+[Computed Hashes]
+ MD5 checksum:    f97b0bd5229e53dc19c8c41ed0b7d241
+ SHA1 checksum:   619e08ff56c5c8f9acaa9cd0cbc646a9ad229b32
+
+Image Information:
+ Acquisition started:   Wed Dec  3 12:06:37 2025
+ Acquisition finished:  Wed Dec  3 12:07:02 2025
+ Segment list:
+  C:\Users\sudha\Downloads\comprise.E01
+ COMPUTED HASH :  f97b0bd5229e53dc19c8c41ed0b7d241
+ COMPUTED HASH :  619e08ff56c5c8f9acaa9cd0cbc646a9ad229b32
+
+Image Verification Results:
+ Verification started:  Wed Dec  3 12:07:02 2025
+ Verification finished: Wed Dec  3 12:07:55 2025
+ MD5 checksum:    f97b0bd5229e53dc19c8c41ed0b7d241 : verified
+ SHA1 checksum:   619e08ff56c5c8f9acaa9cd0cbc646a9ad229b32 : verified
